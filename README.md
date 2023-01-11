@@ -10,7 +10,7 @@
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
 
   <div align="left">
-  <img src="https://github.com/Lucas8901/animated-page/blob/main/gif/bandicam%202022-12-19%2018-28-34-975.gif"/>
+  <img src="https://github.com/Lucas8901/Wildbeast-grid-layout/blob/main/bandicam%202023-01-11%2013-49-54-049.gif"/>
   </div>
 
 
